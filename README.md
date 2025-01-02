@@ -1,7 +1,3 @@
-Here’s the updated **README.md** with the embedded image:  
-
----
-
 # 🌍 Universal Language Picker for Android  
 
 Welcome to the Universal Language Picker! This app provides a seamless interface for users to select their preferred language and manage background ambient music through an intuitive user interface.  
