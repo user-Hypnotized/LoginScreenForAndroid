@@ -1,3 +1,7 @@
+Here’s the updated **README.md** with the roadmap section removed:  
+
+---
+
 # 🌍 Universal Language Picker for Android  
 
 Welcome to the Universal Language Picker! This app provides a seamless interface for users to select their preferred language and manage background ambient music through an intuitive user interface.  
@@ -20,6 +24,15 @@ Welcome to the Universal Language Picker! This app provides a seamless interface
 - 🖥️ **Kotlin/Java**: Core programming language for app development.  
 - 🎨 **Material Design**: Ensures a clean and responsive UI.  
 
+## 🚀 How to Install  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/user-Hypnotized/StartupScreenForandroid.git  
+   ```  
+2. Open the project in **Android Studio**.  
+3. Sync the Gradle files and build the project.  
+4. Run the app on an emulator or physical Android device.  
+
 ## 🚀 Usage  
 1. Launch the app.  
 2. Scroll through the list of languages and select your preferred one.  
@@ -36,7 +49,3 @@ Contributions are welcome! Please follow these steps:
 
 ## 📜 License  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
-Let me know if there's anything else you'd like to adjust! 😊
