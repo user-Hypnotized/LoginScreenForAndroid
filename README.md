@@ -26,12 +26,6 @@ Welcome to the Universal Language Picker! This app provides a seamless interface
 3. Use the mute/unmute button to control the background music.  
 4. Tap "Next" to proceed to the app's next functionality.  
 
-## 🌟 Roadmap  
-- 🆕 Add more languages to the selection list.  
-- 🌍 Provide real-time language translation support.  
-- ✍️ Enable user-defined custom languages.  
-- 🎤 Integrate voice input for selecting languages.  
-
 ## 🤝 Contributing  
 Contributions are welcome! Please follow these steps:  
 1. Fork the repository.  
