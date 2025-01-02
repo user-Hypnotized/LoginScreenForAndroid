@@ -1,4 +1,4 @@
-Here’s the updated **README.md** with the roadmap section removed:  
+Here’s the updated **README.md** with the additional information about the blue gradient moving background:  
 
 ---
 
@@ -15,6 +15,9 @@ Welcome to the Universal Language Picker! This app provides a seamless interface
 
 - 📱 **User-Friendly Design**:  
   A clean and responsive UI that works well on various Android devices, including tablets and foldables.  
+
+- 🌌 **Dynamic Background**:  
+  A calming blue gradient moving background enhances the visual experience and creates an engaging, modern interface.  
 
 ## 📸 Screenshots  
 ![App Screenshot](https://snipboard.io/94uV1m.jpg)  
@@ -49,3 +52,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📜 License  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+
+---
+
+Let me know if there’s anything else you’d like to add or modify! 😊
